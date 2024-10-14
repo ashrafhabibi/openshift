@@ -1,10 +1,13 @@
 # openshift
 
 #WSL configuration
+
 ##provide the details of version
+
 wsl -l -v
 
 ## to list the available distro
+
 wsl --list --online 
 
 ![image](https://github.com/user-attachments/assets/9b118edb-6476-4a6c-9f33-9d5674f83886)
