@@ -18,3 +18,5 @@ wsl --install -d Ubuntu-22.04
 
 ![image](https://github.com/user-attachments/assets/9ff507a5-7e5c-4a68-addc-8d78c96473bd)
 
+# set default wsl version 2 
+wsl --set-default-version 2
